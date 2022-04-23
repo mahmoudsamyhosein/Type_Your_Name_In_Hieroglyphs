@@ -1,0 +1,40 @@
+/* @font-face {
+    font-family: GLYPHTRL;
+    src: url(font/GLYPHTRL.TTF);
+} */
+body{
+    font-family: 'Cairo', sans-serif;
+    background-image: url(main.jpg);
+}
+/* audio{
+    margin-left:510px;
+    margin-top: 5px;
+    
+} */
+#A,#B,#C,#D,#E,#F,#G,#H,#I,#J,#K,#L,#M,#N,#O,#P,#Q,#R,#S,#T,#U,#V,#W,#X,#Y,#Z{
+    float: left;
+    width: 100px;
+    height: 35px;
+    margin: 2px;
+    padding: 2px;
+}
+#Drop{
+    float: left;
+    width: 60px;
+    height: 30px;
+    margin: 2px;
+    padding: 0.2 px;
+    border: 2px solid #ffffff;;
+}
+#name{
+    margin-top: 570px;
+}
+h1{
+    margin-right: 200px;
+    margin-bottom: 0;
+    color: #ffffff;
+}
+h2,p{
+    text-align: center;
+    color: #ffffff;
+}
